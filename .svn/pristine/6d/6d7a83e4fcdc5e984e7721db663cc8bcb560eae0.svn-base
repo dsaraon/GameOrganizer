@@ -1,0 +1,1 @@
+{"success":"${success}","joined":"${joined}"}
